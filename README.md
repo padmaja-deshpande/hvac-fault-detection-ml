@@ -138,10 +138,11 @@ Models were evaluated using:
 - F1 Score
 - Confusion Matrix
 
-## Model Evaluation
+## 📈 Model Performance Comparison
 
+The figure below summarizes the performance of all machine learning models evaluated in this project.
 
-![Model Result Project](images/Model Result Project)
+![Model Performance](images/model_performance_summary.png)
 
 ---
 
