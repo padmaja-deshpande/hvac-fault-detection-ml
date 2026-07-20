@@ -138,15 +138,11 @@ Models were evaluated using:
 - F1 Score
 - Confusion Matrix
 
-## KNN Confusion Matrix
+## Model Evaluation
 
-![KNN Confusion Matrix](images/knn_confusion_matrix.png)
 
----
+![Model Result Project](images/Model Result Project)
 
-## SVM Confusion Matrix
-
-![SVM Confusion Matrix](images/svm_confusion_matrix.png)
 ---
 
 # 📋 Results Summary
