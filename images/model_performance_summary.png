@@ -1,1 +1,12 @@
-model_performance_summary.png
+## 📊 Model Performance Summary
+
+| Model | Train/Test Split | Noise | Accuracy | Precision | Recall | F1 Score |
+|-------|:----------------:|:-----:|:--------:|:---------:|:------:|:--------:|
+| KNN | 70:30 | No | **99%** | 99% | 99% | 99% |
+| KNN | 80:20 | No | **99%** | 99% | 99% | 99% |
+| KNN | 70:30 | Yes (0.5) | 96.9% | 92.1% | 92.2% | 92.1% |
+| KNN | 80:20 | Yes (0.5) | 96.0% | 92.1% | 92.1% | 92.1% |
+| SVM | 70:30 | No | **99%** | 99% | 99% | 99% |
+| SVM | 80:20 | No | **99%** | 99% | 99% | 99% |
+| MLP | 70:30 | No | **99%** | High | High | High |
+| Deep MLP | 70:30 | No | **99%** | High | High | High |
