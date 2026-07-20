@@ -135,8 +135,11 @@ These visualizations are available in the **images/** folder.
 ```
 hvac-fault-detection-ml/
 
-│── README.md
-
+├── .gitignore
+├── LICENSE
+├── README.md
+├── requirements.txt
+│
 ├── data/
 │     hvac_sample_data.xlsx
 │
@@ -152,8 +155,8 @@ hvac-fault-detection-ml/
 ├── notebooks/
 │     HVAC_Fault_Detection.ipynb
 │
-├── reports/
-│     MSc_Thesis.pdf
+└── reports/
+      HVAC_Fault_Detection_Project_Report.pdf
 ```
 
 ---
