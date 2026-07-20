@@ -102,20 +102,20 @@ Before building machine learning models, exploratory data analysis was performed
 
 ## Histogram
 
-![Histogram](histogram.png.png)
+![Histogram](images/histogram.png.png)
 
 ---
 
 ## Heatmap
 
-![Heatmap](heatmap.png.png)
+![Heatmap](images/heatmap.png.png)
 
 
 ---
 
 ## Box Plot
 
-![Box Plot](boxplot.png.png)
+![Box Plot](images/boxplot.png.png)
 ---
 
 # 🤖 Machine Learning Models
