@@ -1,12 +1,23 @@
 # 🏢 HVAC Fault Detection using Machine Learning
 
-> **MSc Data Analytics Dissertation Project**
+> Machine Learning project developed as part of my MSc Data Analytics degree at London Metropolitan University.
+
+This project analyses HVAC (Heating, Ventilation and Air Conditioning) operational data to detect equipment faults using Machine Learning techniques and interactive Power BI dashboards.
+
 
 ## 📌 Project Overview
 
 Heating, Ventilation and Air Conditioning (HVAC) systems are responsible for a significant portion of a building's energy consumption. Faults in Fan Coil Units (FCUs) can lead to unnecessary energy waste, increased maintenance costs, and reduced system efficiency.
 
 This project develops machine learning models to automatically detect HVAC faults using historical sensor data. Multiple classification algorithms were implemented and compared to identify the most effective approach for fault prediction.
+The project includes:
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Machine Learning Models
+- Model Evaluation
+- Power BI Dashboard
+- Result Interpretation
 
 ---
 
