@@ -93,7 +93,7 @@ The dataset contains HVAC operational sensor data collected from commercial buil
 
 The interactive Power BI dashboard provides insights into HVAC system performance, fault distribution, and model outputs.
 
-![Power BI Dashboard](powerbi_dashboard.png.png)
+!(powerbi_dashboard.png.png)
 ---
 
 # 📈 Exploratory Data Analysis (EDA)
