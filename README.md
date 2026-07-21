@@ -142,7 +142,7 @@ Models were evaluated using:
 
 The figure below summarizes the performance of all machine learning models evaluated in this project.
 
-![Model Performance Comparison](image/Model Performance Comparison)
+![Model Performance Summary](images/model_performance_summary.png)
 
 ---
 
